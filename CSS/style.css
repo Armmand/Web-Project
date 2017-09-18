@@ -1,13 +1,22 @@
 body {
-	background-color: #F6F166;
+	background-color: blue;
 	background-size: 20%;
-	background-image: url("../images/Kids-Hands-Print.jpg");
+	width: 100%;
 	
 }
 
 .Header {
-	font-size: 300%;
+	font-size: 200%;
 	text-align: center;
-	background-color: blue;
+	background-image: url("../images/Kids-Hands-Print.jpg");
+    padding: 5px;
+    background-size: 100%;
+    width: 500px;
+    margin-left: 500px;
+    border-radius: 40%;
+    color: blue;
+
+   
+
 	
 }
